@@ -1,4 +1,4 @@
-package com.programmingtechie.productservicemodel;
+package com.programmingtechie.productservice.model;
 
 import java.math.BigDecimal;
 

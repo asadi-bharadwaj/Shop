@@ -6,8 +6,8 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
 import com.programmingtechie.productservice.dto.*;
+import com.programmingtechie.productservice.model.Product;
 import com.programmingtechie.productservice.repository.ProductRepository;
-import com.programmingtechie.productservicemodel.Product;
 
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
